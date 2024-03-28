@@ -1,6 +1,5 @@
-# Excelr_Data_Science_Assignments
 
-## Find all EXCELR Data Science Assignment Here
+# Find all EXCELR Data Science Assignment Here
 
 ### [Basic Statistics Level 1,2](https://github.com/vangetibhavana23/Excelr-Data-Science-Assignments/tree/main/BASIC%20STATISTICS%20LEVEL%20-%201%2C2)
 
