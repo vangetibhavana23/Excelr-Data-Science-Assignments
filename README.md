@@ -31,7 +31,7 @@
 
 ### [Neural Networks ](https://github.com/vangetibhavana23/Excelr-Data-Science-Assignments/tree/main/16.%20NEURAL_NETWORKS)
 
-### [Support Vectro Machine](https://github.com/vangetibhavana23/Excelr-Data-Science-Assignments/tree/main/17.%20SUPPORT_VECTOR_MACHINES)
+### [Support Vector Machine](https://github.com/vangetibhavana23/Excelr-Data-Science-Assignments/tree/main/17.%20SUPPORT_VECTOR_MACHINES)
 
 ### [Forecasting](https://github.com/vangetibhavana23/Excelr-Data-Science-Assignments/tree/main/18.%20FORECASTING)
 
