@@ -28,7 +28,7 @@
 
 ### [Recommendation System]
 
-### [Text Mining ]
+### [Text Mining ](https://github.com/vangetibhavana23/Excelr-Data-Science-Assignments/tree/main/11.%20TEXT_MINING)
 
 ### [Naive Bayes]
 
